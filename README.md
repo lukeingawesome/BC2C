@@ -29,7 +29,7 @@ To assess our model’s capacity for clinical language comprehension, we introdu
 
 ## Features
 - **CXR-Align Benchmark**: A specialized benchmark for evaluating negation and clinical concepts in CXR datasets.
-
+- **BC2C model weights** : Coming soon
 ---
 
 ## Requirements
